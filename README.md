@@ -11,4 +11,4 @@ Esse App Android tem como objetivo,simular um cardápio de uma loja que vende bo
 
 Caso você queira realizar um commit nesse projeto com alguma melhoria, fique à vontade. Porém é expressamente proibido em qualquer momento da utlização desse projeto, realizar commits com expressões preconceituosas seja de qual for à natureza. Fica também expressamente proibido realizar o projeto para qualquer fim que não seja o de aprendizado legal. Lembre-se: você será o responsável por qualquer commit que você realizar, juntamente com o seu conteúdo.
 
-Bons estudos!
+Bons estudos! 
