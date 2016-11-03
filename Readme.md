@@ -1,3 +1,6 @@
+
+MenuCake App.
+
 This Android App aims to simulate a menu of a shop selling cakes of all kinds, in which the customer can see the various types of cake, before going to the store to order them. Technically, this App include elements such as listview along with the standard ViewHolder. In addition to containing a customization Material Design and also layout adapted to the horizontal orientation of the cell. The App was developed in Android Studio, so if you access it in Eclipse, becomes aware that the project structure is different from the standard structure.
 
 If you want to perform a commit this project with some improvement , feel free . But it is strictly forbidden at any time of utlização this project, perform commits to be biased expressions of whatever nature. It is also expressly forbidden to carry out the project for any purpose other than the legal learning. Remember, you are responsible for any commit that you perform along with your content .
