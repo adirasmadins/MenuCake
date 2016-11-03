@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Menu Cake</string>
+    <string name="descricaocholate"> Esse bolo segue sendo o mais requisitado da loja. Além do chocolate, o bolo é composto por uma
+                                     cobertura de chocolate com doce de leite.</string>
+    <string name="descricaobanana"> A mais nova receita da loja, já é um sucesso. Muito solicitado por clientes que querem manter uma
+                                    dieta mais equilibrada. O bolo é composto por recheio de banana e mel, com cobertura de banana ao forno. </string>
+    <string name="descricaomorango"> O bolo de morango é uma boa pedida para eventos especiais, tais como: casamentos, aniversários, festas comemorativas no ambiente profissional.
+                                     Além da cobertura com morangos, o seu recheio é composto por biscoitos doces.</string>
+    <string name="descricaocupcake"> O cupcake só é vendido sob encomenda, pois é o único produto no qual o cliente
+                                     informa de qual sabor o bolo será feito.
+                                     O cupcake pode ser vendido de forma unitária e também em quantidades solicitadas pelo o cliente com
+                                     5 dias de antecedência.</string>
+    <string name="descricaorocambole">O Rocambole é ideal para lanches rápidos. Tais como: café da tarde, pausas durante o expediente de trabalho
+                                      e muitos outros. Sua massa, além de conter doce de leite como recheio, contém cobertura de canela.
+                                   </string>
+</resources>

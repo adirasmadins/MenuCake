@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="android.github.thiagonascimento.com.menucake.Rocambole">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/rocambole"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:id="@+id/imagerocambole"
+        android:scaleType="center" />
+
+    <TextView
+        android:text="@string/descricaorocambole"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewrocambole"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:lines="5"
+        android:textStyle="normal|bold" />
+
+</LinearLayout>

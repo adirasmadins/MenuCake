@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="imagens">
+        <item>@drawable/bolo_banana</item>
+        <item>@drawable/bolo_chocolate</item>
+        <item>@drawable/bolo_morango</item>
+        <item>@drawable/cupcake</item>
+        <item>@drawable/rocambole</item>
+    </array>
+</resources>
